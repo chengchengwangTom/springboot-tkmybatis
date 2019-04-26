@@ -1,2 +1,2 @@
 # springboot-tkmybatis
-springboot  简易整合 tk  mybatis
+springboot + tk  mybatis 简易整合版
